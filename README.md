@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Durbin 👋
 
-<!--
-**monkeyking842/monkeyking842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Materials science researcher working on **first-principles / DFT calculations**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Skills & Tools
+
+- **VASP** — first-principles / density functional theory (DFT) calculations
+- *(可补充: Python · pymatgen · VASPKIT · Linux / HPC · Materials Project)*
+
+### 📂 Featured Projects
+
+- **[materials-dft-portfolio](https://github.com/monkeyking842/materials-dft-portfolio)** — 第一性原理 / DFT 计算作品集 *(进行中)*
+
+### 📫 Get in touch
+
+- GitHub: [@monkeyking842](https://github.com/monkeyking842)
+
+---
+
+<sub>本页是我的 GitHub 个人资料 README。</sub>
